@@ -25,7 +25,6 @@ A separate side-scrolling game prototype. The GitHub repository currently contai
 | `CupcakeMatchQuest-Godot` | Active Match Quest source and development |
 | `CCG2D` | Separate Godot 4 side-scroller prototype |
 | `JuicyGames` | Public studio overview and links (this repository) |
-| `Privacy-Policy` | Public privacy and legal pages |
 
 ## Note
 
